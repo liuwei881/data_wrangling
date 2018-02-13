@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157c64dc-585b-4b53-a58d-d43c1a9b2591" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/liuwei.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/csv_read.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/csv_test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/EN-FINAL Table 9.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/en-final-table9.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/mn.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/mn_headers.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/mn_headers_updated.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/data_save.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/en-final-table9.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/fuzzywu.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/mm_headers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/parse_excel.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/parse_pdf.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/parse_pdf_text.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/pdf_table_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/python_database.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/code/re_example.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_wrangling.iml" afterPath="$PROJECT_DIR$/.idea/data_wrangling.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/corruption_perception_index.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/earth-cleaned.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/earth.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/iso-2-cleaned.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/iso-2.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/data/unicef_oct_2014.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/join_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/code/pygal_test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,21 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="csv_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/csv_test.py">
+      <file leaf-file-name="pygal_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/pygal_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data_save.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/data_save.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="595">
+              <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -90,6 +68,8 @@
         <option value="$PROJECT_DIR$/code/re_example.py" />
         <option value="$PROJECT_DIR$/code/csv_test.py" />
         <option value="$PROJECT_DIR$/code/data_save.py" />
+        <option value="$PROJECT_DIR$/code/join_test.py" />
+        <option value="$PROJECT_DIR$/code/pygal_test.py" />
       </list>
     </option>
   </component>
@@ -144,6 +124,12 @@
               <item name="data_wrangling" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="data_wrangling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_wrangling" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -193,16 +179,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="981" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -419,8 +404,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/data_save.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="425">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data/earth-cleaned.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data/earth.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/join_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#27#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data/iso-2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data/iso-2-cleaned.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/pygal_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding />
         </state>
       </provider>
